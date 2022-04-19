@@ -1,2 +1,2 @@
 # Krishishetram-India
-This is out BE Final Year project.
+This is our BE Final Year project.
